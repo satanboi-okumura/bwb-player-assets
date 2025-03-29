@@ -135,7 +135,7 @@
   position: relative;
   height: 100%;
   background-color: #531344;
-  box-shadow: 0 30px 80px #531344;
+  box-shadow: 0 0px 0px #531344;
   border-radius: 15px;
   z-index: 2;
 }
@@ -148,7 +148,7 @@
   margin-left: 40px;
   transform: rotateZ(0);
   transition: 0.3s ease all;
-  box-shadow: 0 0 0 10px #531344;
+  box-shadow: 0 0 0 0px #531344;
   border-radius: 50%;
   overflow: hidden;
 }
@@ -169,7 +169,7 @@
   margin: -10px auto 0 auto;
   background-color: #F2A8C2;
   border-radius: 50%;
-  box-shadow: inset 0 0 0 2px #531344;
+  box-shadow: inset 0 0 0 0px #531344;
   z-index: 2;
 }
 
